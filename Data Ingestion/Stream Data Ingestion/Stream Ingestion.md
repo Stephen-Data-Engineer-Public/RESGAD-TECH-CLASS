@@ -1,0 +1,4 @@
+# Ingesting data in streaming mode
+
+### Definition:
+**Stream ingestion** is a data processing technique where data is continuously collected, processed, and loaded into a system in real-time or near real-time, as soon as it is generated. Unlike batch ingestion, which processes data at scheduled intervals, stream ingestion allows for the immediate handling of data events, enabling timely insights and actions. For example, a financial services company might use stream ingestion to monitor transactions as they occur, detecting potential fraud within seconds. This method is ideal for use cases that demand low-latency processing, such as IoT telemetry, live user activity tracking, or real-time analytics dashboards.
